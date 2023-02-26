@@ -8,8 +8,6 @@
 
 ## Description
 
-Programming topics include:
-
 Analysis and Development Internship - São Paulo - SP
 - Questions 2 to 5
 
