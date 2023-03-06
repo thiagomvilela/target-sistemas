@@ -1,5 +1,3 @@
-# target-sistemas
- 
 <h1 align="center">
   <img alt="target" src="target(logo).png" />
 </h1>
